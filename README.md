@@ -4,7 +4,10 @@ Godot Improvement Proposals
 In order to improve the workflow of proposing, discussing, reviewing
 and later on implementing features or enhancements in Godot Engine,
 this repository is used to centralize all the proposals in one place
-apart from bug reports.
+apart from bug reports.To help increase the productivity of this process please search 
+for  other issues that may have been proposed before that are related to yours and comment 
+your new ideas there insteadi.
+
 
 Proposals are made by opening issues in this repository, which will
 then be discussed with fellow Godot users and contributors. If a
